@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Previas Definiciones](chapter1.md)
+* [Influencia](influencia.md)
+
